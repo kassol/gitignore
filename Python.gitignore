@@ -27,6 +27,7 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 .tox/
 .coverage
+.cache
 nosetests.xml
 coverage.xml
 
@@ -37,3 +38,14 @@ coverage.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
+

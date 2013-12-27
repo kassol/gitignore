@@ -16,9 +16,8 @@ xcuserdata
 profile
 *.moved-aside
 DerivedData
-.idea/
 *.hmap
-*.xccheckout
+*.ipa
 
 # CocoaPods
 Pods
